@@ -63,7 +63,7 @@ Let's collaborate on a project or discuss an opportunity!
 - **Subject**: Welcome to my portfolio!
 - **Message**: Hello,
 
-Thank you for visiting my portfolio! I'm passionate about frontend development and eager to contribute my skills to exciting projects.
+'Thank you for visiting my portfolio!' I'm passionate about frontend development and eager to contribute my skills to exciting projects.
 
 As a frontend developer, I specialize in creating responsive and visually appealing web applications using HTML, CSS, and JavaScript. I have experience in building dynamic and interactive user interfaces that enhance the overall user experience.
 
